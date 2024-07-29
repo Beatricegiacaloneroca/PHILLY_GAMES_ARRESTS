@@ -76,12 +76,15 @@ For Phillies we notice again an increase in crime rates near the stadium area, e
 
 When comparing with data about attendance to each of the games of the teams analyzed, we can observe that the Eagles are the most popular ones. This may justify why the increase in crime rates is higher when there is an eagles game. 
 
-<img width="615" alt="Screenshot 2024-07-29 at 7 37 41 PM" src="https://github.com/user-attachments/assets/64135af6-3df2-4c1b-8116-ce7f79e6f235">
-* Sources: https://www.phillyvoice.com/, https://www.phillysportsnetwork.com/, https://www.statista.com/
+<img width="585" alt="Screenshot 2024-07-29 at 7 37 41 PM" src="https://github.com/user-attachments/assets/64135af6-3df2-4c1b-8116-ce7f79e6f235">
+
+
+* *Sources: https://www.phillyvoice.com/, https://www.phillysportsnetwork.com/, https://www.statista.com/*
 
 
 Therefore we can conclude that the general trend is that during games the number of crimes increases. 
 This study can be expanded with further analysis about different games and observe how the relationship changes. Moreover, it would be interesting to understand if the change in crime rates when there is a game is significant in other states as well and evaluate whether it is having an impact only on certain demographics where the crime rate has a higher variance than average (ie it is more likely to find spikes due to events). 
 
+----
 **By Bea, Emmy, and Lillie**
 *COMM2550 Data Project*
