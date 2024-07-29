@@ -82,3 +82,4 @@ Therefore we can conclude that the general trend is that during games the number
 This study can be expanded with further analysis about different games and observe how the relationship changes. Moreover, it would be interesting to understand if the change in crime rates when there is a game is significant in other states as well and evaluate whether it is having an impact only on certain demographics where the crime rate has a higher variance than average (ie it is more likely to find spikes due to events). 
 
 **By Bea, Emmy, and Lillie**
+*COMM2550 Data Project*
